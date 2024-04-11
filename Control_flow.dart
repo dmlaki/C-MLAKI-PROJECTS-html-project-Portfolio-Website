@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  int i = sdsd;
+  int i = 21;
   if (i > 10) {
     print("Your number is greater than 10");
   } else if (i < 10) {
